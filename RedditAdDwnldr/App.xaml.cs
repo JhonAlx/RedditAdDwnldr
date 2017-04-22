@@ -1,4 +1,4 @@
-﻿namespace RedditAdBase
+﻿namespace RedditAdDwnldr
 {
     /// <summary>
     /// Interaction logic for App.xaml

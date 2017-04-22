@@ -9,7 +9,7 @@ using HtmlAgilityPack;
 // ReSharper disable AssignNullToNotNullAttribute
 // ReSharper disable ConditionIsAlwaysTrueOrFalse
 
-namespace RedditAdBase
+namespace RedditAdDwnldr
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

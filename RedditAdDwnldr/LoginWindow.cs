@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using System.Windows;
 using Polly;
 using Polly.Retry;
-using RedditAdBase.Model;
+using RedditAdDwnldr.Model;
 
-namespace RedditAdBase
+namespace RedditAdDwnldr
 {
     /// <summary>
     ///     Interaction logic for LoginWindow.xaml

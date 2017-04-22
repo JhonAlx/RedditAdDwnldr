@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace RedditAdBase.Model
+namespace RedditAdDwnldr.Model
 {
     public class Configuration
     {
